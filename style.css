@@ -99,5 +99,13 @@
     font-weight: 700;
     line-height: 44px;   
 }
+.row_body2{
+  display: flex;
+  width: 1270px;
+  height: 500px;
+  margin: 0 -15px;
+  justify-content: center;
+  align-items:center;
+}
 
 
